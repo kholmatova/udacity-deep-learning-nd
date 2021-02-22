@@ -1,1 +1,3 @@
-# udacity-deep-learning-nd
+# Udacity-deep-learning
+
+My projects from Udacity deep learning nanodegree program 
